@@ -1,0 +1,22 @@
+#bt{
+    margin-inline-start: 250px;
+}
+
+.card{
+
+    display: inline-block;
+    margin-top: 20px;
+    margin:10px;
+    border: 1px solid black;
+}
+
+.container{
+    width: 50vw;
+    margin: auto;
+    margin-top: 40px;
+}
+
+#inp{
+  display: flex;
+  flex-direction: column;
+}
